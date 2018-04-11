@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="baidu" duration-ms="11091" started-at="2018-04-11T02:43:38Z" finished-at="2018-04-11T02:43:49Z">
+    <groups>
+    </groups>
+    <test name="Test1: test baidu search" duration-ms="11091" started-at="2018-04-11T02:43:38Z" finished-at="2018-04-11T02:43:49Z">
+      <class name="com.company.AutomationTest.testSuites.businessA.baiduSearch">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="beforeSuite" is-config="true" duration-ms="25463" started-at="2018-04-11T10:43:12Z" finished-at="2018-04-11T10:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-04-11T10:43:38Z" finished-at="2018-04-11T10:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-11T10:43:38Z" finished-at="2018-04-11T10:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-11T10:43:38Z" finished-at="2018-04-11T10:43:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_baidu()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="test_baidu" duration-ms="11075" started-at="2018-04-11T10:43:38Z" finished-at="2018-04-11T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_baidu -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-04-11T10:43:49Z" finished-at="2018-04-11T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-11T10:43:49Z" finished-at="2018-04-11T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-11T10:43:49Z" finished-at="2018-04-11T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.company.AutomationTest.testSuites.businessA.baiduSearch@527740a2]" name="afterSuite" is-config="true" duration-ms="425" started-at="2018-04-11T10:43:49Z" finished-at="2018-04-11T10:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.company.AutomationTest.testSuites.businessA.baiduSearch -->
+    </test> <!-- Test1: test baidu search -->
+  </suite> <!-- baidu -->
+</testng-results>
